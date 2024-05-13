@@ -1,6 +1,6 @@
 ## Hi there everybody!
 
- ### My name is *Aiden*, I'm a biology undergraduate student with a data analysis day job (I work with a lot of data that lives in Excel files, but I really want to upgrade my data handling/analysis skills). 
+ ### My name is Aiden, I'm a biology undergraduate student with a data analysis day job (I work with a lot of data that lives in Excel files, but I really want to upgrade my data handling/analysis skills). 
 
 ### My interests are in data science, particularly bioinformatics but especially computational biology. Computers were invented to help scientists do their jobs better, and I want to follow in the eminent tradition of people using computers to further our understanding of life on our planet. 
 
