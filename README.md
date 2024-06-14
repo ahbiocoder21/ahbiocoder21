@@ -1,27 +1,11 @@
-## Hi there everybody!
+## Hi there everybody!👨🏼‍💻
 
- ### My name is Aiden, I'm a biology undergraduate student with a data analysis day job (I work with a lot of data that lives in Excel files, but I really want to upgrade my data handling/analysis skills). 
+ ### My name is Aiden, I'm a college student from California (major in biology, minor in statistics). I work in data analytics as my day job when I'm not studying, and I love learning about programming! Please reach out if you're interested in connecting. 
 
-### My interests are in data science, particularly bioinformatics but especially computational biology. Computers were invented to help scientists do their jobs better, and I want to follow in the eminent tradition of people using computers to further our understanding of life on our planet. 
-
-#### 🌱 I’m currently learning 
-R and Python (particularly for its applications in genetics/genomics research).
-
-#### 🤔 I’m looking for help with
-how to better apply computer programming and data science skills to biology research. 
-
-
-<!--
-**ahbiocoder21/ahbiocoder21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦺 I’m currently working on using R to automate/speed up common data cleaning/analysis at work
+- 📚 I’m currently learning advanced R techniques, Python for ML, & Swift for fun
+- 💻 I’m looking to collaborate on biostatistics/bioinformatics/public health research/development projects
+- ❔ I’m looking for help with how to break into data science/SWE as a biology major
+- 💬 Ask me about how further insights into giraffe physiology is helping human health research
+- 📫 How to reach me: *hobsonaiden@gmail.com* or on Discord *ahbiocoder21*
+- ⚡ Fun fact: I used to swim d1 for my college 🏊‍♂️
