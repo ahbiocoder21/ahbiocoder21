@@ -7,5 +7,5 @@
 - 💻 I’m looking to collaborate on biostatistics/bioinformatics/public health research/development projects
 - ❔ I’m looking for help with how to break into data science/SWE as a biology major
 - 💬 Ask me about how further insights into giraffe physiology is helping human health research
-- 📫 How to reach me: *hobsonaiden@gmail.com* or on Discord *ahbiocoder21*
+- 📫 How to reach me: *hobsonaiden@gmail.com*
 - ⚡ Fun fact: I used to swim d1 for my college 🏊‍♂️
